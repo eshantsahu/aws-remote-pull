@@ -9,11 +9,18 @@ But the problem begines when you are in autoscaling mode and You have number of 
 For this script to work, following programs are required to be installed :
 1.	AWS CLI with Setup 
 2.	sshpass 
+
 You can follow this link to install AWS CLI 
 http://docs.aws.amazon.com/cli/latest/userguide/installing.html 
 
 To Setup AWS CLI visit
 http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html
+
+To Install sshpass run following command in terminal
+
+sudo apt-get install sshpass
+
+Once you are done with setting up, You can Edit the script 
 
 
 
