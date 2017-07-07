@@ -1,3 +1,5 @@
+aws-remote-pull
+
 Shell Script to Pull Code via Git on AWS Load Balancer
 
 First challenge you may face when you migrate to AWS AutoScaling is Updating your code in Production after minor changes. If you have environment changes like Python version upgrade, New Application on your machine, you will have to Create New AMI and attach it to your load balancer. But code level changes can be applied by logging In to your Machines and updating code via Git.
